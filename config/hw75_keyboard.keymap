@@ -40,7 +40,7 @@
 				&trans          &rgb_ug RGB_EFR &rgb_ug RGB_BRD &rgb_ug RGB_HUD &rgb_ug RGB_SAD &rgb_ug RGB_SPD &trans  &trans  &trans      &trans    &trans      &trans                    &trans        &trans
 				&trans                          &trans          &trans          &trans          &trans          &trans  &trans  &trans      &trans    &trans      &trans      &trans        &trans        &trans
 				&trans          &trans          &trans                                                          &trans                      &trans    &trans      &trans      &trans        &trans        &trans
-				&trans  &trans  &trans  &trans  &trans  &trans
+				&kp C_VOL_DN  &trans  &trans  &trans  &trans  &kp C_VOL_UP
 			>;
 		};
 
@@ -53,7 +53,7 @@
 				&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans          &trans  &trans
 				&trans          &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
 				&trans  &trans  &trans                          &trans                  &trans  &mo FN  &trans  &trans  &trans  &trans
-				&kp C_VOL_DN &none &none &none &none &kp C_VOL_UP
+				&kp TAB &kp LALT &sl TOUCH &sl TOUCH &sl TOUCH &kp C_VOL_UP
 			>;
 		};
 	};
