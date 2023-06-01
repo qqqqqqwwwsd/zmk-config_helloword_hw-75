@@ -52,7 +52,7 @@
 				&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
 				&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans          &trans  &trans
 				&trans          &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-				&trans  &trans  &trans                          &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+				&trans  &trans  &trans                          &trans                  &trans  &mo FN  &trans  &trans  &trans  &trans
 				&kp C_VOL_DN &none &none &none &none &kp C_VOL_UP
 			>;
 		};
