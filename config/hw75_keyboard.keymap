@@ -27,10 +27,10 @@
 				&kp CLCK  &kp A     &kp S     &kp D   &kp F   &kp G   &kp H     &kp J   &kp K   &kp L     &kp SEMI  &kp SQT             &kp RET   &kp KP_MULTIPLY
 				&kp LSHFT           &kp Z     &kp X   &kp C   &kp V   &kp B     &kp N   &kp M   &kp COMMA &kp DOT   &kp FSLH  &kp RSHFT &kp UP    &kp KP_DIVIDE
 				&kp LCTRL &kp LGUI  &kp LALT                          &kp SPACE                 &kp RALT  &mo FN    &kp RCTRL &kp LEFT  &kp DOWN  &kp RIGHT
-				&kp TAB &kp LALT &kp TAB &kp TAB &kp TAB &kp TAB
+				&kp LALT(TAB) &kp LALT(TAB) &kp LALT(TAB) &kp TAB &kp TAB &kp TAB
 			>;
 		};
-
+		
 		fn {
 			label = "FN";
 			bindings = <
