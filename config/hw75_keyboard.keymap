@@ -53,7 +53,7 @@
 				&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans          &trans  &trans
 				&trans          &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
 				&trans  &trans  &trans                          &trans                  &trans  &mo FN  &trans  &trans  &trans  &trans
-				&kp TAB &kp LALT &sl TOUCH &sl TOUCH &sl TOUCH &kp C_VOL_UP
+				&kp TAB &kp LALT &sl TOUCH &sl TOUCH &sl TOUCH &kp C_VOL_UP 
 			>;
 		};
 	};
